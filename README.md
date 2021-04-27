@@ -16,7 +16,7 @@ git clone https://github.com/skuxxdeluxxe/terraform-apache-simple.git
 
 Go into the infrastructure directory
 ```sh
-cd terraform-apache
+cd terraform-apache-simple
 cd infrastructure
 ```
 
